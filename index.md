@@ -4,7 +4,7 @@ This is my home page! My name is Justin Carranza and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/justin-carranza.
+My GitHub page is http://github.com/justin-carranza/.
 
 ### CPSC 120
 
